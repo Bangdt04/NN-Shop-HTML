@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.popup-overlay {
+  flex-direction: column;
+  display: flex;
+  position: fixed;
+  inset: 0;
+}
+
+:root {
+  --font-roboto: Roboto;
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-9xl: 28px;
+  --font-size-5xl: 24px;
+  --font-size-xs: 12px;
+  --font-size-3xs: 10px;
+  --font-size-lg: 18px;
+  --font-size-29xl: 48px;
+  --font-size-xl: 20px;
+  --font-size-19xl: 38px;
+  --color-white: #fff;
+  --color-darkslategray: #323334;
+  --color-gray-100: #fafafa;
+  --color-gray-200: #222;
+  --color-gray-300: #ffffffe6;
+  --color-gray-400: #00000080;
+  --color-gray-500: #ffffff80;
+  --color-gray-600: #0006;
+  --color-sandybrown: #f2994a;
+  --color-sienna-100: #a86a3d;
+  --color-sienna-200: #7b5136;
+  --color-lightgray: #dbd0cccc;
+  --color-black: #000;
+  --color-silver: #c4c4c4;
+  --color-darkgray: #aaaaac99;
+  --color-tan: #b7b79a99;
+  --br-8xs: 5px;
+}
+/*# sourceMappingURL=category-page.689f5f05.css.map */

@@ -1,0 +1,1331 @@
+.category-bedroom-products-page-child {
+  background-color: #dce1da;
+  width: 1440px;
+  height: 265px;
+  position: absolute;
+  top: 310px;
+  left: 0;
+}
+
+.moody-studio1 {
+  font-size: var(--font-size-9xl);
+  position: absolute;
+  top: 34px;
+  left: 82px;
+}
+
+.category-bedroom-products-page-inner, .category-bedroom-products-page-item, .group-icon4 {
+  width: 1280px;
+  max-height: 100%;
+  position: absolute;
+  top: 86px;
+  left: 82px;
+}
+
+.category-bedroom-products-page-inner, .group-icon4 {
+  top: 181px;
+}
+
+.group-icon4 {
+  width: 72.94%;
+  max-width: 100%;
+  height: 84.12%;
+  inset: 12.65% 17.65% 3.24% 9.41%;
+  overflow: hidden;
+}
+
+.group-child30 {
+  background-color: var(--color-sandybrown);
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.b20 {
+  width: 33.11%;
+  height: 66.89%;
+  display: inline-block;
+  position: absolute;
+  top: 12.16%;
+  left: 31.76%;
+}
+
+.ellipse-group {
+  width: 43.53%;
+  height: 43.53%;
+  position: absolute;
+  inset: 56.47% 8.53% 0 47.94%;
+}
+
+.bibucket-container, .bibucket1 {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+
+.bibucket1 {
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.bibucket-container {
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  top: 28px;
+  left: 1263px;
+}
+
+.category-bedroom-products-page-child1 {
+  width: 22.2px;
+  height: 29.6px;
+  position: absolute;
+  top: 32px;
+  left: 1204px;
+}
+
+.group-icon5, .vector-icon7 {
+  width: 29.4px;
+  height: 27.6px;
+  position: absolute;
+  top: 34px;
+  left: 1334px;
+}
+
+.vector-icon7 {
+  width: 27px;
+  height: 27px;
+  top: 35px;
+  left: 1140px;
+}
+
+.accessories1, .brand1, .store1 {
+  position: absolute;
+  top: 0;
+  left: 115px;
+}
+
+.accessories1, .brand1 {
+  left: 234px;
+}
+
+.brand1 {
+  left: 408px;
+}
+
+.about-us1, .news1, .pages1 {
+  position: absolute;
+  top: 0;
+  left: 530px;
+}
+
+.about-us1, .news1 {
+  left: 649px;
+}
+
+.news1 {
+  left: 795px;
+}
+
+.contact-us1, .home-parent {
+  position: absolute;
+  top: 0;
+  left: 909px;
+}
+
+.home-parent {
+  width: 1006px;
+  height: 19px;
+  top: 124px;
+  left: 194px;
+}
+
+.homepage-brand-hm {
+  font-size: var(--font-size-lg);
+  position: absolute;
+  top: 235px;
+  left: 599px;
+}
+
+.homepage-brand-hm, .ot-a-member {
+  text-transform: lowercase;
+}
+
+.not-a-member-container {
+  font-size: var(--font-size-lg);
+  position: absolute;
+  top: 509px;
+  left: 592px;
+}
+
+.i {
+  text-transform: capitalize;
+}
+
+.its-easy-to-container {
+  font-size: var(--font-size-lg);
+  font-weight: 300;
+  position: absolute;
+  top: 748px;
+  left: 402px;
+}
+
+.member-exclusive, .off-everything {
+  font-size: var(--font-size-19xl);
+  position: absolute;
+}
+
+.member-exclusive {
+  font-weight: 500;
+  top: 354px;
+  left: 565px;
+}
+
+.off-everything {
+  text-transform: lowercase;
+  top: 415px;
+  left: 305px;
+}
+
+.bedroom {
+  text-transform: uppercase;
+  width: 209px;
+  height: 40px;
+  font-size: 44px;
+  display: inline-block;
+  position: absolute;
+  top: 671px;
+  left: 402px;
+}
+
+.category-bedroom-products-page-child2 {
+  background-color: var(--color-silver);
+  width: 306px;
+  height: 365px;
+  position: absolute;
+  top: 862px;
+  left: 402px;
+}
+
+.category-bedroom-products-page-child3, .category-bedroom-products-page-child4, .category-bedroom-products-page-child5 {
+  background-color: var(--color-silver);
+  width: 306px;
+  height: 365px;
+  position: absolute;
+  top: 1415px;
+  left: 402px;
+}
+
+.category-bedroom-products-page-child4, .category-bedroom-products-page-child5 {
+  top: 1968px;
+}
+
+.category-bedroom-products-page-child5 {
+  top: 2521px;
+}
+
+.category-bedroom-products-page-child10 {
+  object-fit: cover;
+  width: 306px;
+  height: 365px;
+  position: absolute;
+  top: 862px;
+  left: 402px;
+}
+
+.category-bedroom-products-page-child11, .category-bedroom-products-page-child12 {
+  object-fit: cover;
+  width: 306px;
+  height: 365px;
+  position: absolute;
+  top: 1415px;
+  left: 402px;
+}
+
+.category-bedroom-products-page-child12 {
+  top: 1968px;
+}
+
+.category-bedroom-products-page-child13, .category-bedroom-products-page-child14 {
+  object-fit: cover;
+  width: 306px;
+  height: 365px;
+  position: absolute;
+  top: 2521px;
+  left: 402px;
+}
+
+.category-bedroom-products-page-child14 {
+  top: 862px;
+  left: 732px;
+}
+
+.category-bedroom-products-page-child15, .category-bedroom-products-page-child16 {
+  object-fit: cover;
+  width: 306px;
+  height: 365px;
+  position: absolute;
+  top: 1415px;
+  left: 732px;
+}
+
+.category-bedroom-products-page-child16 {
+  top: 1968px;
+}
+
+.category-bedroom-products-page-child17, .category-bedroom-products-page-child18 {
+  object-fit: cover;
+  width: 306px;
+  height: 365px;
+  position: absolute;
+  top: 2521px;
+  left: 732px;
+}
+
+.category-bedroom-products-page-child18 {
+  top: 862px;
+  left: 1062px;
+}
+
+.category-bedroom-products-page-child19, .category-bedroom-products-page-child20 {
+  object-fit: cover;
+  width: 306px;
+  height: 365px;
+  position: absolute;
+  top: 1415px;
+  left: 1062px;
+}
+
+.category-bedroom-products-page-child20 {
+  cursor: pointer;
+  top: 1968px;
+}
+
+.category-bedroom-products-page-child21 {
+  object-fit: cover;
+  width: 306px;
+  height: 365px;
+  position: absolute;
+  top: 2521px;
+  left: 1062px;
+}
+
+.velvet-covvered {
+  width: 229px;
+  height: 17px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.p15 {
+  margin-block: 0 6px;
+}
+
+.b21, .group-child31 {
+  position: absolute;
+  left: 0;
+}
+
+.b21 {
+  font-size: var(--font-size-5xl);
+  width: 71px;
+  height: 25px;
+  display: inline-block;
+  top: 65px;
+}
+
+.group-child31 {
+  width: 24px;
+  height: 10px;
+  top: 36px;
+}
+
+.velvet-covvered-parent {
+  font-size: var(--font-size-lg);
+  width: 229px;
+  height: 90px;
+  position: absolute;
+  top: 1251px;
+  left: 402px;
+}
+
+.round-floor-mat {
+  text-transform: capitalize;
+  width: 229px;
+  height: 17px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.group-child32 {
+  width: 28px;
+  height: 10px;
+  position: absolute;
+  top: 36px;
+  left: 0;
+}
+
+.round-floor-mat-parent {
+  font-size: var(--font-size-lg);
+  width: 229px;
+  height: 90px;
+  position: absolute;
+  top: 1804px;
+  left: 402px;
+}
+
+.group-child33 {
+  width: 46px;
+  height: 10px;
+  position: absolute;
+  top: 36px;
+  left: 0;
+}
+
+.fitted-cotton-sheet-parent, .washed-linen-pillowcase-parent {
+  font-size: var(--font-size-lg);
+  width: 229px;
+  height: 90px;
+  position: absolute;
+  top: 2357px;
+  left: 402px;
+}
+
+.washed-linen-pillowcase-parent {
+  top: 2910px;
+}
+
+.group-child35 {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: 36px;
+  left: 0;
+}
+
+.candle-in-glass-holder-parent, .class-light-holder-parent {
+  font-size: var(--font-size-lg);
+  width: 229px;
+  height: 90px;
+  position: absolute;
+  top: 1251px;
+  left: 732px;
+}
+
+.class-light-holder-parent {
+  top: 1804px;
+}
+
+.metal-photo-frame-parent, .ribbed-wool-blend-throw-parent, .small-candle-in-a-small-jar-parent {
+  font-size: var(--font-size-lg);
+  width: 229px;
+  height: 90px;
+  position: absolute;
+  top: 2357px;
+  left: 732px;
+}
+
+.metal-photo-frame-parent, .ribbed-wool-blend-throw-parent {
+  top: 2910px;
+}
+
+.metal-photo-frame-parent {
+  top: 1251px;
+  left: 1062px;
+}
+
+.checked-duvet-cover-set-parent, .flannel-duvet-cover-set-parent, .mini-porcelain-dish-parent {
+  font-size: var(--font-size-lg);
+  width: 229px;
+  height: 90px;
+  position: absolute;
+  top: 1804px;
+  left: 1062px;
+}
+
+.checked-duvet-cover-set-parent, .mini-porcelain-dish-parent {
+  top: 2357px;
+}
+
+.mini-porcelain-dish-parent {
+  top: 2910px;
+}
+
+.models, .products {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.products {
+  text-transform: capitalize;
+  color: var(--color-darkslategray);
+  left: 106px;
+}
+
+.models-parent {
+  color: #fe1313;
+  width: 171px;
+  height: 19px;
+  position: absolute;
+  top: 815px;
+  left: 1197px;
+}
+
+.n {
+  text-transform: uppercase;
+}
+
+.new-arrivals3 {
+  font-size: var(--font-size-base);
+  position: absolute;
+  top: 37px;
+  left: 1px;
+}
+
+.new-arrivals-parent {
+  font-size: var(--font-size-xl);
+  width: 115px;
+  height: 56px;
+  position: absolute;
+  top: 673px;
+  left: 72px;
+}
+
+.shop-by-concept-container {
+  font-size: var(--font-size-xl);
+  position: absolute;
+  top: 1210px;
+  left: 73px;
+}
+
+.conscious {
+  position: absolute;
+  top: 1247px;
+  left: 73px;
+}
+
+.classic-collection, .premium-quality {
+  position: absolute;
+  top: 1278px;
+  left: 73px;
+}
+
+.classic-collection {
+  top: 1309px;
+}
+
+.gender-wrapper, .man {
+  position: absolute;
+  top: 1410px;
+  left: 100px;
+}
+
+.gender-wrapper {
+  font-size: var(--font-size-xl);
+  width: 66px;
+  height: 23px;
+  top: 1370px;
+  left: 73px;
+}
+
+.color {
+  text-transform: capitalize;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.color-wrapper {
+  width: 49px;
+  height: 23px;
+  top: 1503px;
+}
+
+.color-wrapper, .price-wrapper, .shop-by-room-container {
+  font-size: var(--font-size-xl);
+  position: absolute;
+  left: 73px;
+}
+
+.price-wrapper {
+  width: 47px;
+  height: 23px;
+  top: 1675px;
+}
+
+.shop-by-room-container {
+  top: 771px;
+}
+
+.bedroom1 {
+  text-transform: capitalize;
+  color: #f81111;
+  position: absolute;
+  top: 808px;
+  left: 73px;
+}
+
+.child-room, .duvet-cover-sets, .living-room {
+  text-transform: capitalize;
+  position: absolute;
+  top: 1056px;
+  left: 72px;
+}
+
+.child-room, .duvet-cover-sets {
+  top: 839px;
+  left: 105px;
+}
+
+.child-room {
+  top: 1087px;
+  left: 72px;
+}
+
+.bathroom, .bedspreads-blankets, .outdoor, .sheets {
+  text-transform: capitalize;
+  position: absolute;
+  top: 870px;
+  left: 105px;
+}
+
+.bathroom, .bedspreads-blankets, .outdoor {
+  top: 1118px;
+  left: 72px;
+}
+
+.bedspreads-blankets, .outdoor {
+  top: 901px;
+  left: 105px;
+}
+
+.outdoor {
+  top: 1149px;
+  left: 72px;
+}
+
+.blankets, .cutains, .filter-sort, .pillowcases, .rugs {
+  text-transform: capitalize;
+  position: absolute;
+  top: 932px;
+  left: 105px;
+}
+
+.cutains, .filter-sort, .pillowcases, .rugs {
+  top: 963px;
+}
+
+.filter-sort, .pillowcases, .rugs {
+  top: 994px;
+}
+
+.filter-sort, .rugs {
+  top: 1025px;
+}
+
+.filter-sort {
+  text-transform: uppercase;
+  top: 0;
+  left: 29px;
+}
+
+.vector-icon8 {
+  width: 14.07%;
+  max-width: 100%;
+  height: 63.16%;
+  max-height: 100%;
+  position: absolute;
+  inset: 15.79% 85.93% 21.05% 0;
+  overflow: hidden;
+}
+
+.filter-sort-parent {
+  width: 135px;
+  height: 19px;
+  position: absolute;
+  top: 815px;
+  left: 402px;
+}
+
+.category-bedroom-products-page-child22 {
+  background-color: #e4e3e1;
+  width: 306px;
+  height: 43px;
+  position: absolute;
+  top: 1737px;
+  left: 732px;
+}
+
+.group-child43 {
+  background-color: var(--color-darkslategray);
+  width: 371px;
+  height: 51px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.load-more-products1 {
+  text-transform: uppercase;
+  position: absolute;
+  top: 16px;
+  left: 98px;
+}
+
+.rectangle-parent8 {
+  color: var(--color-white);
+  width: 371px;
+  height: 51px;
+  position: absolute;
+  top: 3081px;
+  left: 700px;
+}
+
+.group-child44 {
+  background-color: var(--color-darkslategray);
+  width: 1440px;
+  height: 447px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.urban-outfitters4 {
+  font-size: var(--font-size-9xl);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.lorem-ipsum-dolor9 {
+  color: var(--color-gray-500);
+  width: 312px;
+  line-height: 22px;
+  display: inline-block;
+  position: absolute;
+  top: 74px;
+  left: 2px;
+}
+
+.b33, .contacturbanoutfitterscom2, .king-street-melbourne-container2 {
+  width: 312px;
+  line-height: 22px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.b33, .contacturbanoutfitterscom2 {
+  top: 30px;
+}
+
+.contacturbanoutfitterscom2 {
+  top: 60px;
+}
+
+.king-street-melbourne-3000-container {
+  width: 312px;
+  height: 82px;
+  position: absolute;
+  top: 159px;
+  left: 2px;
+}
+
+.group-child45, .urban-outfitters-container {
+  width: 314px;
+  height: 241px;
+  position: absolute;
+  top: 50px;
+  left: 72px;
+}
+
+.group-child45 {
+  background-color: var(--color-gray-200);
+  width: 1440px;
+  height: 52px;
+  top: 443px;
+  left: 0;
+}
+
+.urban-outfitters5 {
+  font-size: var(--font-size-sm);
+  align-items: flex-end;
+  width: 262.7px;
+  font-weight: 300;
+  display: flex;
+  position: absolute;
+  top: 461px;
+  left: 589px;
+}
+
+.ant-designtwitter-outlined-icon2 {
+  width: 19.9px;
+  height: 19.9px;
+  position: absolute;
+  top: 0;
+  left: 82.2px;
+  overflow: hidden;
+}
+
+.ant-designinstagram-filled-icon2 {
+  width: 19.9px;
+  left: 174.5px;
+  overflow: hidden;
+}
+
+.ant-designinstagram-filled-icon2, .vaadinyoutube-icon2, .vector-icon9 {
+  height: 19.9px;
+  position: absolute;
+  top: 0;
+}
+
+.vaadinyoutube-icon2 {
+  width: 19.9px;
+  left: 266.7px;
+  overflow: hidden;
+}
+
+.vector-icon9 {
+  width: 9.6px;
+  left: 0;
+}
+
+.ant-designtwitter-outlined-container {
+  width: 286.7px;
+  height: 19.9px;
+  position: absolute;
+  top: 346px;
+  left: 74px;
+}
+
+.group-child46 {
+  width: 296px;
+  max-height: 100%;
+  position: absolute;
+  top: 234px;
+  left: 960px;
+}
+
+.from-the-blog2 {
+  position: absolute;
+  top: 50px;
+  left: 961px;
+}
+
+.lorem-ipsum-dolor10 {
+  width: 312px;
+  font-weight: 300;
+  line-height: 22px;
+  display: inline-block;
+  position: absolute;
+  top: 38px;
+  left: 0;
+}
+
+.may4, .parent3 {
+  font-size: var(--font-size-sm);
+  position: absolute;
+  top: 8px;
+  left: 33px;
+}
+
+.parent3 {
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-500);
+  width: 60px;
+  height: 28px;
+  top: 0;
+  left: 0;
+}
+
+.comments4 {
+  font-size: var(--font-size-sm);
+  opacity: .5;
+  position: absolute;
+  top: 91px;
+  left: 2px;
+}
+
+.lorem-ipsum-dolor-sit-amet-co-parent2 {
+  width: 312px;
+  height: 107px;
+  position: absolute;
+  top: 94px;
+  left: 960px;
+}
+
+.lorem-ipsum-dolor11 {
+  width: 312px;
+  font-weight: 300;
+  line-height: 22px;
+  display: inline-block;
+  position: absolute;
+  top: 39px;
+  left: 0;
+}
+
+.parent4 {
+  width: 60px;
+  height: 28px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.comments5 {
+  font-size: var(--font-size-sm);
+  opacity: .5;
+  position: absolute;
+  top: 92px;
+  left: 2px;
+}
+
+.lorem-ipsum-dolor-sit-amet-co-parent3 {
+  width: 312px;
+  height: 108px;
+  position: absolute;
+  top: 268px;
+  left: 960px;
+}
+
+.shopping2 {
+  font-size: var(--font-size-base);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.your-cart2, .your-orders2 {
+  opacity: .7;
+  font-weight: 300;
+  position: absolute;
+  top: 53px;
+  left: 0;
+}
+
+.your-orders2 {
+  top: 85px;
+}
+
+.compared-items2, .shipping-detail2, .wishlist-items2 {
+  opacity: .7;
+  font-weight: 300;
+  position: absolute;
+  top: 117px;
+  left: 0;
+}
+
+.shipping-detail2, .wishlist-items2 {
+  top: 149px;
+}
+
+.shipping-detail2 {
+  top: 181px;
+}
+
+.more-link-container, .shopping-container {
+  font-size: var(--font-size-sm);
+  width: 103px;
+  height: 197px;
+  position: absolute;
+  top: 50px;
+  left: 513px;
+}
+
+.more-link-container {
+  width: 88px;
+  left: 744px;
+}
+
+.category-bedroom-products-page-inner1, .rectangle-parent9 {
+  width: 1440px;
+  height: 495px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.category-bedroom-products-page-inner1 {
+  color: var(--color-white);
+  top: 3214px;
+}
+
+.category-bedroom-products-page-child23 {
+  border-radius: var(--br-8xs);
+  border: 2px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1407px;
+  left: 72px;
+}
+
+.woman {
+  position: absolute;
+  top: 1444px;
+  left: 100px;
+}
+
+.div10, .div11, .div6, .div7, .div8, .div9 {
+  text-transform: uppercase;
+  position: absolute;
+  top: 1713px;
+  left: 100px;
+}
+
+.div10, .div11, .div7, .div8, .div9 {
+  top: 1745px;
+}
+
+.div10, .div11, .div8, .div9 {
+  top: 1777px;
+}
+
+.div10, .div11, .div9 {
+  top: 1809px;
+}
+
+.div10, .div11 {
+  top: 1841px;
+}
+
+.div11 {
+  top: 1873px;
+}
+
+.category-bedroom-products-page-child24, .category-bedroom-products-page-child25, .category-bedroom-products-page-child26, .category-bedroom-products-page-child27 {
+  border-radius: var(--br-8xs);
+  border: 2px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1443px;
+  left: 72px;
+}
+
+.category-bedroom-products-page-child25, .category-bedroom-products-page-child26, .category-bedroom-products-page-child27 {
+  top: 1712px;
+}
+
+.category-bedroom-products-page-child26, .category-bedroom-products-page-child27 {
+  top: 1744px;
+}
+
+.category-bedroom-products-page-child27 {
+  top: 1776px;
+}
+
+.category-bedroom-products-page-child28, .category-bedroom-products-page-child29, .category-bedroom-products-page-child30, .category-bedroom-products-page-child31 {
+  border-radius: var(--br-8xs);
+  border: 2px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1808px;
+  left: 72px;
+}
+
+.category-bedroom-products-page-child29, .category-bedroom-products-page-child30, .category-bedroom-products-page-child31 {
+  top: 1840px;
+}
+
+.category-bedroom-products-page-child30, .category-bedroom-products-page-child31 {
+  top: 1872px;
+}
+
+.category-bedroom-products-page-child31 {
+  background-color: var(--color-white);
+  top: 1541px;
+}
+
+.category-bedroom-products-page-child32, .category-bedroom-products-page-child33 {
+  border-radius: var(--br-8xs);
+  background-color: #bb6bd9;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1576px;
+  left: 72px;
+}
+
+.category-bedroom-products-page-child33 {
+  background-color: #770505;
+  top: 1611px;
+}
+
+.category-bedroom-products-page-child34 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkslategray);
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1541px;
+  left: 107px;
+}
+
+.category-bedroom-products-page-child35, .category-bedroom-products-page-child36 {
+  border-radius: var(--br-8xs);
+  background-color: #56ccf2;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1576px;
+  left: 107px;
+}
+
+.category-bedroom-products-page-child36 {
+  background-color: #0a5d8b;
+  top: 1611px;
+}
+
+.category-bedroom-products-page-child37 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-silver);
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1541px;
+  left: 142px;
+}
+
+.category-bedroom-products-page-child38, .category-bedroom-products-page-child39 {
+  border-radius: var(--br-8xs);
+  background-color: #6fcf97;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1576px;
+  left: 142px;
+}
+
+.category-bedroom-products-page-child39 {
+  background-color: #ad5b12;
+  top: 1611px;
+}
+
+.category-bedroom-products-page-child40, .category-bedroom-products-page-child41 {
+  border-radius: var(--br-8xs);
+  background-color: #f2c94c;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1541px;
+  left: 177px;
+}
+
+.category-bedroom-products-page-child41 {
+  background-color: #219653;
+  top: 1576px;
+}
+
+.category-bedroom-products-page-child42, .category-bedroom-products-page-child43 {
+  border-radius: var(--br-8xs);
+  background-color: #4f0e8b;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1611px;
+  left: 177px;
+}
+
+.category-bedroom-products-page-child43 {
+  background-color: #eb5757;
+  top: 1541px;
+  left: 247px;
+}
+
+.category-bedroom-products-page-child44, .category-bedroom-products-page-child45 {
+  border-radius: var(--br-8xs);
+  background-color: #df1313;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1576px;
+  left: 247px;
+}
+
+.category-bedroom-products-page-child45 {
+  background-color: #156008;
+  top: 1611px;
+}
+
+.category-bedroom-products-page-child46 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-sandybrown);
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1541px;
+  left: 212px;
+}
+
+.category-bedroom-products-page-child47, .category-bedroom-products-page-child48 {
+  border-radius: var(--br-8xs);
+  background-color: #2f80ed;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1576px;
+  left: 212px;
+}
+
+.category-bedroom-products-page-child48 {
+  background-color: #0a7091;
+  top: 1611px;
+}
+
+.category-bedroom-products-page {
+  background-color: var(--color-white);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  font-family: var(--font-roboto);
+  width: 100%;
+  height: 3709px;
+  position: relative;
+  overflow: hidden;
+}
+
+.group-child82 {
+  background-color: var(--color-white);
+  width: 636px;
+  height: 593px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 1px 0 10px #0000001a;
+}
+
+.group-child83 {
+  width: 19.5px;
+  height: 19.5px;
+  position: absolute;
+  top: 29px;
+  left: 584px;
+}
+
+.p34 {
+  text-transform: capitalize;
+}
+
+.roduct1 {
+  text-transform: lowercase;
+}
+
+.product-type1, .size1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.size1 {
+  text-transform: capitalize;
+  top: 62px;
+}
+
+.clear-all1, .collection1, .color2, .concept1, .quality1 {
+  text-transform: capitalize;
+  position: absolute;
+  top: 124px;
+  left: 0;
+}
+
+.clear-all1, .collection1, .concept1, .quality1 {
+  top: 186px;
+}
+
+.clear-all1, .collection1, .quality1 {
+  top: 248px;
+}
+
+.clear-all1, .quality1 {
+  top: 310px;
+}
+
+.clear-all1 {
+  font-weight: 500;
+  top: 21px;
+  left: 81px;
+}
+
+.group-child84 {
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 253px;
+  height: 63px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.clear-all-group, .group-child85 {
+  width: 253px;
+  height: 63px;
+  position: absolute;
+  top: 393px;
+  left: 4px;
+}
+
+.group-child85 {
+  background-color: var(--color-darkslategray);
+  top: 0;
+  left: 0;
+}
+
+.done1 {
+  text-transform: capitalize;
+  font-weight: 500;
+  position: absolute;
+  top: 21px;
+  left: 103px;
+}
+
+.rectangle-parent24 {
+  color: var(--color-white);
+  width: 253px;
+  height: 63px;
+  position: absolute;
+  top: 393px;
+  left: 275px;
+}
+
+.product-type-group {
+  width: 528px;
+  height: 456px;
+  position: absolute;
+  top: 79px;
+  left: 54px;
+}
+
+.rectangle-parent23 {
+  width: 636px;
+  height: 593px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.drop-down {
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray);
+  font-family: var(--font-roboto);
+  width: 636px;
+  max-width: 90%;
+  height: 593px;
+  max-height: 90%;
+  position: relative;
+  overflow: auto;
+}
+/*# sourceMappingURL=category-page.1d406eb0.css.map */

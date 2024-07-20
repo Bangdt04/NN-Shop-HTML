@@ -1,0 +1,519 @@
+.ui-kit1 {
+  color: var(--color-darkslategray);
+  position: absolute;
+  top: 45px;
+  left: 1291px;
+}
+
+.input, .primary-button, .secondary-button {
+  text-transform: uppercase;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.input, .secondary-button {
+  top: 1px;
+  left: 533px;
+}
+
+.secondary-button {
+  top: 175px;
+  left: 0;
+}
+
+.group-child68 {
+  background-color: var(--color-darkslategray);
+  width: 371px;
+  height: 51px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.load-more-products2 {
+  text-transform: uppercase;
+  position: absolute;
+  top: 16px;
+  left: 98px;
+}
+
+.group-child69, .rectangle-parent16 {
+  width: 371px;
+  height: 51px;
+  position: absolute;
+  left: 0;
+}
+
+.rectangle-parent16 {
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  top: 63px;
+}
+
+.group-child69 {
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  top: 238px;
+}
+
+.load-more-products3 {
+  font-size: var(--font-size-base);
+  text-transform: uppercase;
+  color: var(--color-darkslategray);
+  position: absolute;
+  top: 254px;
+  left: 98px;
+}
+
+.enter-your-e-mail-container1 {
+  opacity: .5;
+  position: absolute;
+  top: 15px;
+  left: 26px;
+}
+
+.group-child70 {
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 515px;
+  height: 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.enter-your-e-mail-address-group {
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  width: 515px;
+  height: 50px;
+  position: absolute;
+  top: 64px;
+  left: 533px;
+}
+
+.primary-button-parent {
+  width: 1048px;
+  height: 289px;
+  position: absolute;
+  top: 199px;
+  left: 72px;
+}
+
+.group-child71, .hover {
+  position: absolute;
+  top: 0;
+}
+
+.hover {
+  text-transform: uppercase;
+  left: 1px;
+}
+
+.group-child71 {
+  object-fit: cover;
+  width: 306px;
+  height: 566px;
+  left: 0;
+}
+
+.group-child72 {
+  background-color: var(--color-gray-600);
+  width: 306px;
+  height: 516px;
+  position: absolute;
+  top: 50px;
+  left: 1px;
+}
+
+.decor3 {
+  margin-block: 0 6px;
+}
+
+.decor2, .lorem-ipsum-dolor15 {
+  display: inline-block;
+  position: absolute;
+}
+
+.decor2 {
+  width: 90px;
+  height: 28px;
+  top: 0;
+  left: 0;
+}
+
+.lorem-ipsum-dolor15 {
+  font-size: var(--font-size-base);
+  width: 210px;
+  line-height: 22px;
+  top: 58px;
+  left: 3px;
+}
+
+.group-child73 {
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 124px;
+  height: 48px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.view-all2 {
+  width: 92px;
+  display: inline-block;
+  position: absolute;
+  top: 16px;
+  left: 16px;
+}
+
+.group-wrapper7, .rectangle-parent18 {
+  width: 124px;
+  height: 48px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.group-wrapper7 {
+  text-align: center;
+  font-size: var(--font-size-sm);
+  top: 198px;
+}
+
+.decor-group {
+  width: 213px;
+  height: 246px;
+  position: absolute;
+  top: 160px;
+  left: 47px;
+}
+
+.rectangle-parent17 {
+  color: var(--color-white);
+  width: 307px;
+  height: 566px;
+  position: absolute;
+  top: 23px;
+  left: 0;
+}
+
+.group-child74, .group-child75 {
+  width: 306px;
+  height: 422px;
+  position: absolute;
+  top: 167px;
+  left: 599px;
+}
+
+.group-child75 {
+  left: 989px;
+}
+
+.group-child76 {
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  top: 0;
+}
+
+.group-child76, .group-child77, .group-wrapper10 {
+  width: 124px;
+  height: 48px;
+  position: absolute;
+  left: 0;
+}
+
+.group-child77 {
+  background-color: var(--color-darkslategray);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  top: 0;
+}
+
+.group-wrapper10 {
+  color: var(--color-white);
+  top: 67px;
+}
+
+.group-parent1, .group-wrapper8 {
+  width: 124px;
+  height: 115px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.group-wrapper8 {
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray);
+  top: 325px;
+  left: 391px;
+}
+
+.hover-parent {
+  width: 1295px;
+  height: 589px;
+  position: absolute;
+  top: 654px;
+  left: 72px;
+}
+
+.moody-studio3 {
+  color: var(--color-darkslategray);
+  position: absolute;
+  top: 52px;
+  left: 72px;
+}
+
+.enim-nostrud-id, .text {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.enim-nostrud-id {
+  width: 1097px;
+  height: 277px;
+  display: inline-block;
+  left: 105px;
+}
+
+.enim-nostrud-id-id-ipsum-velit-parent {
+  font-size: var(--font-size-29xl);
+  width: 1202px;
+  height: 277px;
+  position: absolute;
+  top: 76px;
+  left: 2px;
+}
+
+.enim-nostrud-id1 {
+  width: 1097px;
+  height: 91px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 105px;
+}
+
+.enim-nostrud-id-id-ipsum-velit-group {
+  width: 1202px;
+  height: 91px;
+  position: absolute;
+  top: 399px;
+  left: 2px;
+}
+
+.enim-nostrud-id2 {
+  width: 1097px;
+  height: 41px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 105px;
+}
+
+.enim-nostrud-id-id-ipsum-velit-container {
+  font-size: var(--font-size-lg);
+  width: 1202px;
+  height: 41px;
+  position: absolute;
+  top: 536px;
+  left: 2px;
+}
+
+.enim-nostrud-id3 {
+  width: 1097px;
+  height: 42px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.enim-nostrud-id-id-ipsum-velit-wrapper {
+  width: 1097px;
+  height: 42px;
+  position: absolute;
+  top: 0;
+  left: 107px;
+}
+
+.bodytext {
+  width: 92px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.group-parent2 {
+  font-size: var(--font-size-base);
+  width: 1204px;
+  height: 42px;
+  position: absolute;
+  top: 623px;
+  left: 0;
+}
+
+.group-child78, .text-parent {
+  width: 1204px;
+  height: 665px;
+  position: absolute;
+  top: 1409px;
+  left: 73px;
+}
+
+.group-child78 {
+  background-color: var(--color-white);
+  width: 636px;
+  height: 593px;
+  top: 0;
+  left: 0;
+  box-shadow: 1px 0 10px #0000001a;
+}
+
+.group-child79 {
+  width: 19.5px;
+  height: 19.5px;
+  position: absolute;
+  top: 29px;
+  left: 584px;
+}
+
+.roduct {
+  text-transform: lowercase;
+}
+
+.t {
+  text-transform: capitalize;
+}
+
+.clear-all, .collection, .color1, .concept, .quality, .size {
+  text-transform: capitalize;
+  position: absolute;
+  top: 62px;
+  left: 0;
+}
+
+.clear-all, .collection, .color1, .concept, .quality {
+  top: 124px;
+}
+
+.clear-all, .collection, .concept, .quality {
+  top: 186px;
+}
+
+.clear-all, .collection, .quality {
+  top: 248px;
+}
+
+.clear-all, .quality {
+  top: 310px;
+}
+
+.clear-all {
+  font-weight: 500;
+  top: 21px;
+  left: 81px;
+}
+
+.group-child80 {
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 253px;
+  height: 63px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.clear-all-parent, .group-child81 {
+  width: 253px;
+  height: 63px;
+  position: absolute;
+  top: 393px;
+  left: 4px;
+}
+
+.group-child81 {
+  background-color: var(--color-darkslategray);
+  top: 0;
+  left: 0;
+}
+
+.done {
+  text-transform: capitalize;
+  font-weight: 500;
+  position: absolute;
+  top: 21px;
+  left: 103px;
+}
+
+.rectangle-parent22 {
+  color: var(--color-white);
+  width: 253px;
+  height: 63px;
+  position: absolute;
+  top: 393px;
+  left: 275px;
+}
+
+.product-type-parent {
+  width: 528px;
+  height: 456px;
+  position: absolute;
+  top: 79px;
+  left: 54px;
+}
+
+.rectangle-parent21 {
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray);
+  width: 636px;
+  height: 593px;
+  position: absolute;
+  top: 83px;
+  left: 0;
+}
+
+.dropdown-parent {
+  width: 636px;
+  height: 676px;
+  position: absolute;
+  top: 2240px;
+  left: 75px;
+}
+
+.homepage-brand-hm2 {
+  font-size: var(--font-size-lg);
+  text-transform: lowercase;
+  color: var(--color-darkslategray);
+  position: absolute;
+  top: 83px;
+  left: 1px;
+}
+
+.breadcrumb-parent {
+  width: 465px;
+  height: 104px;
+  position: absolute;
+  top: 3082px;
+  left: 102px;
+}
+
+.ui-kit {
+  background-color: var(--color-white);
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+  width: 100%;
+  height: 3334px;
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=ui-kit.dfc51e8c.css.map */

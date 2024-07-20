@@ -1,0 +1,125 @@
+.group-child82 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 1px 0 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--color-white);
+  width: 636px;
+  height: 593px;
+}
+.group-child83 {
+  position: absolute;
+  top: 29px;
+  left: 584px;
+  width: 19.5px;
+  height: 19.5px;
+}
+.p34 {
+  text-transform: capitalize;
+}
+.roduct1 {
+  text-transform: lowercase;
+}
+.product-type1,
+.size1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.size1 {
+  top: 62px;
+  text-transform: capitalize;
+}
+.clear-all1,
+.collection1,
+.color2,
+.concept1,
+.quality1 {
+  position: absolute;
+  top: 124px;
+  left: 0;
+  text-transform: capitalize;
+}
+.clear-all1,
+.collection1,
+.concept1,
+.quality1 {
+  top: 186px;
+}
+.clear-all1,
+.collection1,
+.quality1 {
+  top: 248px;
+}
+.clear-all1,
+.quality1 {
+  top: 310px;
+}
+.clear-all1 {
+  top: 21px;
+  left: 81px;
+  font-weight: 500;
+}
+.group-child84 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 253px;
+  height: 63px;
+}
+.clear-all-group,
+.group-child85 {
+  position: absolute;
+  top: 393px;
+  left: 4px;
+  width: 253px;
+  height: 63px;
+}
+.group-child85 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+}
+.done1 {
+  position: absolute;
+  top: 21px;
+  left: 103px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.rectangle-parent24 {
+  position: absolute;
+  top: 393px;
+  left: 275px;
+  width: 253px;
+  height: 63px;
+  color: var(--color-white);
+}
+.product-type-group {
+  position: absolute;
+  top: 79px;
+  left: 54px;
+  width: 528px;
+  height: 456px;
+}
+.rectangle-parent23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 636px;
+  height: 593px;
+}
+.drop-down {
+  width: 636px;
+  position: relative;
+  height: 593px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray);
+  font-family: var(--font-roboto);
+}
